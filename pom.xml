@@ -20,12 +20,16 @@
             <artifactId>java-client</artifactId>
             <version>7.3.0</version>
         </dependency>
-
         <dependency>
             <groupId>com.github.2gis.winium</groupId>
             <artifactId>winium-webdriver</artifactId>
             <version>0.1.0-1</version>
         </dependency>
+	<dependency>
+	    <groupId>com.github.2gis.winium</groupId>
+	    <artifactId>winium-elements-desktop</artifactId>
+	    <version>0.2.0-1</version>
+	</dependency>
 
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
         <dependency>
